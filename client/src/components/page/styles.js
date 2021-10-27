@@ -11,7 +11,8 @@ const page = styled.div((props) => ({
 
 const line = styled.div((props) => ({
     height: '50vh',
-    border: '1px dashed #19bc8b'
+    border: '1px dashed #19bc8b',
+    margin: 'auto 50px'
 }))
 
 export default {

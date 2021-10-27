@@ -9,12 +9,11 @@
   line-height: 1;
   margin: 0.5em;
   padding: 1em 2em;
-  /* width: 10rem; */
 }
 
 .button:hover,
 .button:focus {
-  box-shadow: inset 10rem 0 0 0 #19bc8b;
+  box-shadow: inset 11rem 0 0 0 #19bc8b;
   border-color: #19bc8b;
   color: #fff;
 }
